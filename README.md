@@ -20,23 +20,23 @@ pip install -r requirements.txt
 Basic usage:
 
 ```bash
-dowser https://example.com/some-page
+./dowser https://example.com/some-page
 ```
 
 See all audio streams found:
 
 ```bash
-dowser --list-all https://example.com/some-page
+./dowser --list-all https://example.com/some-page
 ```
 
 Don't copy to clipboard:
 
 ```bash
-dowser --no-clipboard https://example.com/some-page
+./dowser --no-clipboard https://example.com/some-page
 ```
 
 Verbose output for debugging:
 
 ```bash
-dowser -v https://example.com/some-page
+./dowser -v https://example.com/some-page
 ```
