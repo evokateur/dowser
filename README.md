@@ -5,7 +5,7 @@ Dowses a URL for audio streams
 ## What it does
 
 Looks for audio streams on a webpage and attempts to rank them by quality.
-The stream with the highest perveived quality will be copied to the paste buffer.
+The stream of the highest perceived quality will be copied to the paste buffer.
 
 ## Quick Start
 
