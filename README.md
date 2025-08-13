@@ -7,7 +7,7 @@ Dowses a URL for audio streams
 Looks for audio streams on a webpage and attempts to rank them by quality.
 The stream of the highest perceived quality will be copied to the paste buffer.
 
-## Quick Start
+## Setup
 
 ```bash
 python3 -m venv .venv
